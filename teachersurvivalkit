@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+  <title>Teacher Survival Kit</title>
+  <link rel="stylesheet" href="css/style.css">
+</header>
+
+<body>
+  <h1>Teacher Survival Kit 2022-2023</h1>
+  <br>
+
+  <section class="s1">
+   <h3>Be Honest...</h3>
+    <p>Survival mode kicked in pretty early this year and you can't even figure out why.</p>
+    <p>Is it leaving for work when it's cold and dark? Is it the long hours that still never
+    seem to be enough to accomplish your to-do list? Is it the never-ending triage that is
+    teaching?</p><br>
+ 
+  <h3>Who knows?</h3>
+  <p>We may not know what exactly has toggeled on your survival mode, but we are here to help!</p>
+  <p>Take a look at our Teacher Survival Kit for the current school year.</p>
+  </section>
+  <hr>
+
+  <section class="s2">
+   <h3>Pain Relievers</h3>
+    <p>Need a dose of caffeine or a quick breakfast? Check out these coupons and freebies!</p>
+    <ul>
+      <li>Free Coffee for Teachers - All September at Your Local Wawa *No coupon needed*</li>
+      <li>Double Stars at Starbucks - Purchase any refresher in October and receive double stars</li>
+      <li>Free Donut at Dunkin - Purchase a medium coffee or larger and receive a free donut</li>
+      <li>Half off a Pastry at Starbucks - Purchase a grande handcrafted drink or larger and receive
+        50% off a pastry of your choice </li>
+   </ul> <br>
+  </section>
+
+  <section class="s3">
+    <h3>Laughter Medicine</h3>
+    <p>It's the best medicine after all, right?</p>
+    <ul>
+      <li><a href="https://youtu.be/vficx-Co2W8">A Teacher's Nighttime Peayer Towards the End of the School Year</a></li>
+      <li><a href="https://youtu.be/KWrZ7bhSeRo">Funny Teachers of TikTok Compilation</a></li>
+    </ul> <br>
+  </section>
+
+
+</body>
+</html>
